@@ -1,0 +1,25 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "Test express with supertest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/ExpressTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/ExpressTest/issues"
+  },
+  "homepage": "https://github.com/NathanKr/ExpressTest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "supertest": "^3.3.0"
+  }
+}
